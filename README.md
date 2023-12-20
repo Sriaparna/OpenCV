@@ -1,7 +1,7 @@
 # OpenCV
 Projects on Computer Vision
-Certainly! Below is a README content template that you can use to describe the above Python code which uses OpenCV and Pytesseract for license plate detection and recognition. You can modify it to better fit your project's specific details and requirements.
-License Plate Detection and Recognition
+
+# License Plate Detection and Recognition
 Overview
 
 This project is focused on detecting and recognizing license plates from images using Python, OpenCV, and Pytesseract. The program reads an image, detects the license plate, and then uses OCR (Optical Character Recognition) to extract the text from the license plate.
